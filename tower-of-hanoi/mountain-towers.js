@@ -23,6 +23,6 @@ function maxMountainSum(heights) {
   return max;
 }
 
-console.log(maxMountainSum([5, 3, 4, 1, 1]));   // 13
-console.log(maxMountainSum([6, 5, 3, 9, 2, 7])); // 22
-console.log(maxMountainSum([3, 2, 5, 5, 2, 3])); // 18
+console.log(maxMountainSum([5, 3, 4, 1, 1]));
+console.log(maxMountainSum([6, 5, 3, 9, 2, 7]));
+console.log(maxMountainSum([3, 2, 5, 5, 2, 3]));
